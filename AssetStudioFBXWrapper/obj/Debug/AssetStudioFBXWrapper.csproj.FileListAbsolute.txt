@@ -1,0 +1,11 @@
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudioFBXWrapper.dll
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudioFBXWrapper.pdb
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudio.dll
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudio.PInvoke.dll
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudio.PInvoke.pdb
+E:\AssetStudio-master\AssetStudioFBXWrapper\bin\Debug\AssetStudio.pdb
+E:\AssetStudio-master\AssetStudioFBXWrapper\obj\Debug\AssetStudioFBXWrapper.csprojAssemblyReference.cache
+E:\AssetStudio-master\AssetStudioFBXWrapper\obj\Debug\AssetStudioFBXWrapper.csproj.CoreCompileInputs.cache
+E:\AssetStudio-master\AssetStudioFBXWrapper\obj\Debug\AssetStudioFBXWrapper.csproj.CopyComplete
+E:\AssetStudio-master\AssetStudioFBXWrapper\obj\Debug\AssetStudioFBXWrapper.dll
+E:\AssetStudio-master\AssetStudioFBXWrapper\obj\Debug\AssetStudioFBXWrapper.pdb

@@ -1,0 +1,6 @@
+E:\AssetStudio-master\AssetStudio.PInvoke\bin\Debug\AssetStudio.PInvoke.dll
+E:\AssetStudio-master\AssetStudio.PInvoke\bin\Debug\AssetStudio.PInvoke.pdb
+E:\AssetStudio-master\AssetStudio.PInvoke\obj\Debug\AssetStudio.PInvoke.csproj.CoreCompileInputs.cache
+E:\AssetStudio-master\AssetStudio.PInvoke\obj\Debug\AssetStudio.PInvoke.dll
+E:\AssetStudio-master\AssetStudio.PInvoke\obj\Debug\AssetStudio.PInvoke.pdb
+E:\AssetStudio-master\AssetStudio.PInvoke\obj\Debug\AssetStudio.PInvoke.csprojAssemblyReference.cache

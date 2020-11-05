@@ -1,0 +1,6 @@
+E:\AssetStudio-master\AssetStudio\bin\Debug\AssetStudio.dll
+E:\AssetStudio-master\AssetStudio\bin\Debug\AssetStudio.pdb
+E:\AssetStudio-master\AssetStudio\obj\Debug\AssetStudio.csproj.CoreCompileInputs.cache
+E:\AssetStudio-master\AssetStudio\obj\Debug\AssetStudio.dll
+E:\AssetStudio-master\AssetStudio\obj\Debug\AssetStudio.pdb
+E:\AssetStudio-master\AssetStudio\obj\Debug\AssetStudio.csprojAssemblyReference.cache

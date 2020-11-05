@@ -1,0 +1,32 @@
+﻿  astc.cpp
+E:\AssetStudio-master\Texture2DDecoderNative\fp16\fp16.h(377,61): warning C4244: “参数”: 从“float”转换到“uint32_t”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\astc.cpp(165,38): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\astc.cpp(175,16): warning C4244: “return”: 从“float”转换到“uint8_t”，可能丢失数据
+  atc.cpp
+  bcn.cpp
+E:\AssetStudio-master\Texture2DDecoderNative\fp16\fp16.h(377,61): warning C4244: “参数”: 从“float”转换到“uint32_t”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\bcn.cpp(373,10): warning C4244: “return”: 从“float”转换到“uint8_t”，可能丢失数据
+  crunch.cpp
+  dllmain.cpp
+  etc.cpp
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(41,43): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(41,62): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(148,51): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(148,70): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(167,47): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(167,66): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(263,47): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+E:\AssetStudio-master\Texture2DDecoderNative\etc.cpp(263,66): warning C4838: 从“int”转换到“const uint_fast8_t”需要收缩转换
+  pvrtc.cpp
+  unitycrunch.cpp
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3145,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3359,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3412,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3474,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3536,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3586,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+E:\AssetStudio-master\Texture2DDecoderNative\unitycrunch\crn_decomp.h(3653,40): warning C4244: “=”: 从“unitycrnd::uint16”转换到“unitycrnd::uint8”，可能丢失数据
+  正在生成代码...
+    正在创建库 bin\Win32\Debug\Texture2DDecoderNative.lib 和对象 bin\Win32\Debug\Texture2DDecoderNative.exp
+  Texture2DDecoderNative.vcxproj -> E:\AssetStudio-master\Texture2DDecoderNative\bin\Win32\Debug\Texture2DDecoderNative.dll
+  Texture2DDecoderNative.vcxproj -> E:\AssetStudio-master\Texture2DDecoderNative\bin\x64\Debug\Texture2DDecoderNative.dll
